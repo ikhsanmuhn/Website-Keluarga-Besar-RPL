@@ -1,0 +1,45 @@
+
+.topbar .navbar-collapse .navbar-nav .profile-pic img.img-circle {
+	border-radius: 0.25rem;
+}
+.white-box{
+    background:#fff;
+    padding:25px;
+    height: 100px;
+    margin-bottom:30px;
+    border-radius: 0px 0px 20px 20px;
+   
+
+}
+.judul_artikel{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: BOLD;
+    text-align: left;
+    font-size: 14px;
+}
+.tgl_artikel{
+    font-size: 12px;
+}
+.judul_loker{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: BOLD;
+    text-align: left;
+    font-size: 14px;
+}
+.tgl_loker{
+    font-size: 12px;
+}
+.loker_img{
+    border-radius: 20px 20px 0px 0px;
+    height : 300px;
+    width: 100%;
+    
+}
+.artikel_img{
+    border-radius: 20px 20px 0px 0px;
+    height : 250px;
+    width: 100%;
+    
+}

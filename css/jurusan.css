@@ -1,0 +1,119 @@
+div{
+    padding: 0;
+}
+.text_navbar{
+     margin: 20px;
+     font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+}
+.topbar .navbar-collapse .navbar-nav .profile-pic img.img-circle {
+	border-radius: 0.25rem;
+}
+.topbar .navbar-collapse .navbar-nav .profile-pic img.img-circle.pp{
+     margin-right: 0px;
+}
+.img_header{
+    margin: 50px;
+    width: 350px;
+    height: 266px;
+}
+.header2{
+    height: 365px;   
+    background: #16697A;
+    border-radius: 0px 0px 60px 60px;
+}
+.jargon{
+    font-size: 70px;
+    width: 450px;
+    text-align: center;
+}
+.bulat{
+    width: 300px;
+    height: 200px;
+    background: #FFA62B;
+    border-radius: 1000px 0px 120px 0px;
+}
+.header3{
+    height: 200px;   
+    
+}
+.intro{
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    margin: 50px;
+}
+.image-info2{
+    width: 270px;
+    height: 155px;
+    border-radius: 10px;
+}
+.container-infojur{
+}
+.container-infojur2{
+    margin: 50px;
+}
+.container-info{
+    width: 270px;
+    height: 205;
+    margin-right: 56px;
+    margin-bottom: 56px;
+}
+.tgl_artikel{
+    width: 111px;
+    height: 14px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 11px;
+
+    color: #000000;
+}
+.judul_artikel{
+    width: 270px;
+    height: 24px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 11px;
+    display: flex;
+
+    color: #000000;
+}
+.penjelasan_thread{
+    height: 100px;
+   
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+.judul_thread{
+    width: 500px;
+    height: 28px;
+    margin-left: 50px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: BOLD;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
